@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Resistance-AssaultRifle_03-Single_Shot-04.wav-4487b7feb7d1969c6c588471864f4600.sample"
+
+[deps]
+
+source_file="res://Resistance-AssaultRifle_03-Single_Shot-04.wav"
+dest_files=[ "res://.import/Resistance-AssaultRifle_03-Single_Shot-04.wav-4487b7feb7d1969c6c588471864f4600.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
